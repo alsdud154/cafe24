@@ -1,0 +1,6 @@
+cafe24:
+    mallId: YOUR_MALL_ID
+    clientId: YOUR_CLIENT_ID
+    clientSecret: YOUR_CLIENT_SECRET
+    redirectUri: YOUR_REDIRECT_URI
+
